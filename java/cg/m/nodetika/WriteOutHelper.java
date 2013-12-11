@@ -1,4 +1,4 @@
-package cg.m.nodejs.tika;
+package cg.m.nodetika;
 
 import org.apache.tika.sax.WriteOutContentHandler;
 import org.xml.sax.Attributes;

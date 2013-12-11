@@ -1,4 +1,4 @@
-package cg.m.nodejs.tika;
+package cg.m.nodetika;
 
 import org.apache.tika.detect.Detector;
 

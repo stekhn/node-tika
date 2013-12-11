@@ -1,4 +1,4 @@
-package cg.m.nodejs.tika;
+package cg.m.nodetika;
 
 public class ShutdownHookHelper {
 	public static void setShutdownHook(final Runnable r) {
